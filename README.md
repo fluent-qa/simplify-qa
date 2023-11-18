@@ -9,4 +9,15 @@ Start this repo as Software QA revisited project. The topics includes:
 4. Build Software QA backoffice tools for Real Cases
 5. From PoC to Product 
 
+## 1. Simplify Software QA concepts and Process
+
+- [] TODO
+
+## 2. Simplify API Automation testing
+
+- TODO
+
+## 3. Simplify Software QA Portal Development
+
+- TODO
 
