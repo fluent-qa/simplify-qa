@@ -9,15 +9,20 @@ Start this repo as Software QA revisited project. The topics includes:
 4. Build Software QA backoffice tools for Real Cases
 5. From PoC to Product 
 
-## 1. Simplify Software QA concepts and Process
+## 1. Stories and Practises
+### 1.1 Simplify Software QA concepts and Process
 
 - [] TODO
 
-## 2. Simplify API Automation testing
+### 1.2. Simplify API Automation testing
 
 - TODO
 
-## 3. Simplify Software QA Portal Development
+### 1.3. Simplify Software QA Portal Development
 
 - TODO
 
+## 2. Show me the codes
+
+- [daily-python](https://github.com/fluent-qa/fluentqa-python)
+- [qa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
