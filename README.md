@@ -12,7 +12,7 @@ Start this repo as Software QA revisited project. The topics includes:
 ## 1. Stories and Practises
 ### 1.1 Simplify Software QA concepts and Process
 
-- [] TODO
+- [simplify test case writing-ai ](./docs/process/1-testcase-writing.md) ai for test case writing
 
 ### 1.2. Simplify API Automation testing
 
